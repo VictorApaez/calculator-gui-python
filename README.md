@@ -2,6 +2,8 @@
 
 This is a simple calculator application built with Kivy in Python. The application was developed following Test Driven Development (TDD) practices using a custom test suite with pytest.
 
+<img src="./images/calculator-app.png" alt="Image of Calculator app">
+
 ## Features
 
 - Basic mathematical operations like addition, subtraction, multiplication and division.
