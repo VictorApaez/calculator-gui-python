@@ -25,13 +25,13 @@ To install the Calculator App, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/VictorApaez/calculator-app.git
+git clone https://github.com/VictorApaez/calculator-gui-python.git
 ```
 
 2. Change into the project directory:
 
 ```bash
-cd calculator-app
+cd calculator-gui-python
 ```
 
 3. Create and activate a virtual environment (optional but recommended):
